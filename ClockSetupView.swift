@@ -255,7 +255,3 @@ struct ActiveMissionView: View {
         }
     }
 }
-
-
-
-
